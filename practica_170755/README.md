@@ -1,4 +1,24 @@
-# practica_170755
+[![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
+
+<div align="Justify">
+
+# DMI_Practica6_170755 Aplicación uso de steteless widget
+Aplicación 6: aplicacion flutter uso de boton
+# Universidad Tecnológica de Xicotepec de Juárez
+## Descripción
+Creacion de una aplicacion haciendo uso de steteless widget, haciendo funcion de un boton, el cual al hacer clik arroja otro texto declarado en la lista
+## Ingeniería en Desarrollo y Gestión de Software
+## Jose Luis Galindo Picazo
+## 10A
+### Desarrollo Movil Integral
+
+&nbsp;
+&nbsp;
+|  Característica |  Información |
+| :------------: | :------------: |
+| Nombre | **Aplicación 6* aplicacion flutter uso de botones* |
+| Descripción  |creacion de una aplicacion de flutter con cards|
+|  Fecha de Carga | 15/09/23  |
 
 A new Flutter project.
 
