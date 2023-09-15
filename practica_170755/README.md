@@ -20,11 +20,11 @@ Creacion de una aplicacion haciendo uso de steteless widget, haciendo funcion de
 | Descripción  |creacion de una aplicacion de flutter con cards|
 |  Fecha de Carga | 15/09/23  |
 
-https://postimg.cc/jWzg520F][img]https://i.postimg.cc/jWzg520F/Captura-de-pantalla-1.png[/img][/url]
+[url=https://postimg.cc/jWzg520F][img]https://i.postimg.cc/jWzg520F/Captura-de-pantalla-1.png[/img][/url]
 
-https://postimg.cc/njpdQxnc][img]https://i.postimg.cc/njpdQxnc/Captura-de-pantalla-2.png[/img][/url]
+[url=https://postimg.cc/njpdQxnc][img]https://i.postimg.cc/njpdQxnc/Captura-de-pantalla-2.png[/img][/url]
 
-https://postimg.cc/mzjmYnr3][img]https://i.postimg.cc/mzjmYnr3/Captura-de-pantalla-3.png[/img][/url]
+[url=https://postimg.cc/mzjmYnr3][img]https://i.postimg.cc/mzjmYnr3/Captura-de-pantalla-3.png[/img][/url]
 
 A new Flutter project.
 
