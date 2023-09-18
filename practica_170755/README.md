@@ -1,5 +1,7 @@
 [![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
+https://i.postimg.cc/njpdQxnc/Captura-de-pantalla-2.png
+
 <div align="Justify">
 
 # DMI_Practica6_170755 Aplicación uso de steteless widget
@@ -22,7 +24,7 @@ Creacion de una aplicacion haciendo uso de steteless widget, haciendo funcion de
 
 [url=https://postimg.cc/jWzg520F][img]https://i.postimg.cc/jWzg520F/Captura-de-pantalla-1.png[/img][/url]
 
-[url=https://postimg.cc/njpdQxnc][img]https://i.postimg.cc/njpdQxnc/Captura-de-pantalla-2.png[/img][/url]
+[![url=https://postimg.cc/njpdQxnc][img]https://i.postimg.cc/njpdQxnc/Captura-de-pantalla-2.png][/img][/url]
 
 [url=https://postimg.cc/mzjmYnr3][img]https://i.postimg.cc/mzjmYnr3/Captura-de-pantalla-3.png[/img][/url]
 
