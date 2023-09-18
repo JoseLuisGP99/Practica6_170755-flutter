@@ -1,6 +1,6 @@
 [![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
-https://i.postimg.cc/njpdQxnc/Captura-de-pantalla-2.png
+![](https://i.postimg.cc/njpdQxnc/Captura-de-pantalla-2.png)
 
 <div align="Justify">
 
